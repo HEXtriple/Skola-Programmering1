@@ -1,7 +1,4 @@
-from asyncore import loop
-from pickle import TRUE
 import random
-from tkinter.tix import InputOnly
 import time
 
 loopNamn = True
